@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Lau</h1>
+
 - 🌱 I’m currently learning **GO**
 
 - 📫 How to reach me **lpk80006@gmail.com**
